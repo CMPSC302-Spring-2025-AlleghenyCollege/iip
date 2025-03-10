@@ -6,6 +6,8 @@ TBD (will be different for different class members, spanning multiple weeks)
 ## Overview
 This assignment explores international and intercultural perspectives in web design by investigating how different languages and writing systems impact we design, including web typography, layout, and accessibility. You will analyze internationalization (i18n) challenges and present findings on best practices for making web content accessible across diverse linguistic and cultural backgrounds.
 
+**You may work in a team of two if selecting the same language.**
+
 ## Objectives
 - Explore the W3C Internationalization resources.
 - Choose a language from the W3C Language Matrix.
@@ -23,6 +25,7 @@ This assignment explores international and intercultural perspectives in web des
 ### Step 1: Language Selection
 - Choose a language from the [W3C Language Matrix](https://www.w3.org/International/typography/gap-analysis/language-matrix.html) (not english).
 - Research the selected language's web typography, layout, and accessibility challenges.
+- [Select language & Sign up for the presentation or indicate planned contribution](https://docs.google.com/spreadsheets/d/1U2b7XOQvM0xjg5Og6qrVU90zKwpICOxUUHIS5G84xZs/edit?usp=sharing).
 
 ### Step 2: Research & Analysis for the Selected Language
 - Explore how cultural and linguistic differences impact web design.
